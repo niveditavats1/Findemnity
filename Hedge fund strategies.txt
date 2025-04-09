@@ -1,0 +1,39 @@
+Equity Strategies
+    Long/Short Equity
+    Market-Neutral
+    Long-Bias
+    Short-Bias
+    Value-Oriented
+
+Event Driven Strategies
+    Special Situations
+    Distressed Debt
+    Risk/Merger Arbitrage
+    Opportunistic
+    Activist
+
+Relative Value Strategies
+    Relative Value Arbitrage
+    Statistical Arbitrage
+    Fixed Income Arbitrage
+    Capital Structure Arbitrage
+
+Macro and Managed Futures Funds
+
+Credit Strategies
+    Specialist Credit
+    Long/Short Credit
+    Fixed Income Credit
+    Mortgage-Backed
+    Asset-Backed
+
+Niche Strategies
+    Cryptocurrency
+    Insurance-Linked
+    Real Estate
+
+Alternative Risk Premia
+
+
+
+
